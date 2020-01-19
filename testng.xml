@@ -1,0 +1,11 @@
+<suite name="Test Suite for practice 1">
+
+    <test name="Practice test name">
+
+        <classes>
+            <class name="Steps.Ebay"/>
+        </classes>
+
+    </test>
+
+</suite>
